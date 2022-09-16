@@ -31,7 +31,6 @@ import {
   APPSMITH_GLOBAL_FUNCTIONS,
   APPSMITH_NAMESPACED_FUNCTIONS,
 } from "./constants";
-import PropertyHelpLabel from "pages/Editor/PropertyPane/PropertyHelpLabel";
 
 /* eslint-disable @typescript-eslint/ban-types */
 /* TODO: Function and object types need to be updated to enable the lint rule */
