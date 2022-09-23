@@ -39,7 +39,7 @@ import {
   enumTypeSetter,
   enumTypeGetter,
 } from "./utils";
-import { SelectorView } from "./viewComponents/SelectorView";
+import { SelectorView } from "./viewComponents/SelectorView/SelectorView";
 import { KeyValueView } from "./viewComponents/KeyValueView";
 import { TextView } from "./viewComponents/TextView/TextView";
 import { TabView } from "./viewComponents/TabView/TabView";
