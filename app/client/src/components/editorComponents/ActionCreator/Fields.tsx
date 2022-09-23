@@ -41,7 +41,7 @@ import {
 } from "./utils";
 import { SelectorView } from "./viewComponents/SelectorView";
 import { KeyValueView } from "./viewComponents/KeyValueView";
-import { TextView } from "./viewComponents/TextView";
+import { TextView } from "./viewComponents/TextView/TextView";
 import { TabView } from "./viewComponents/TabView/TabView";
 
 /**
